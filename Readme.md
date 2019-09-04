@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
-* Студент: [Вероника](https://up.htmlacademy.ru/htmlcss/26/user/1170567).
-* Наставник: `Неизвестно`.
+* Студент: [Вероника Хижа](https://up.htmlacademy.ru/htmlcss/26/user/1170567).
+* Наставник: [Артем Аношин](https://htmlacademy.ru/profile/id561851).
 
 ---
 
